@@ -116,9 +116,6 @@
     },
     "minimum-stability": "dev",
     "extra": {
-        "branch-alias": {
-            "dev-master": "3.2-dev"
-        },
         "dev-files": {
             "doc": ["CHANGELOG*.md", "CONTRIBUTING.md", "CONTRIBUTORS.md", "README*.md", "UPGRADE*.md"],
             "test": ["Tests", "phpunit.xml.dist"],
